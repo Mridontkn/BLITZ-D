@@ -1,5 +1,5 @@
-const SUPABASE_URL = "https://otnnyxtttsiypjskrshw.supabase.co";
-const SUPABASE_KEY = "sb_publishable_cM5C9YCHNKdz8DvjFSJ_PQ_eA-wQ76P";
+const SUPABASE_URL = "https://ylaoqzmxcaxwzkpwtcup.supabase.co";
+const SUPABASE_KEY = "sb_publishable_UMmxdQ59D_7toAbt0wA6bQ_iEIfbxuO";
 
 function escapeXml(value) {
     return String(value)
